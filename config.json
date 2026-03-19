@@ -11,12 +11,14 @@
           "image": "https://yt3.googleusercontent.com/ytc/AIdro_lZTJ2GjIKfiQPXwlhY7HxsZn7LFMd4DYjkCWaAkJSIhQ=s900-c-k-c0x00ffffff-no-rj",
           "download_audio": true
         }
-      ]
+      ],
+      "image": "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=1400&h=1400&fit=crop&q=80"
     },
     "curated": {
       "title": "Donna's Picks",
       "description": "Podcast episodes curated by Donna based on Matthew's interests",
-      "sources": []
+      "sources": [],
+      "image": "https://images.unsplash.com/photo-1614680376593-902f74cf0d41?w=1400&h=1400&fit=crop&q=80"
     }
   },
   "interests": [
