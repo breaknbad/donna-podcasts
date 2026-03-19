@@ -7,6 +7,14 @@
     <language>en-us</language>
     <itunes:author>Donna</itunes:author>
     <itunes:image href="https://images.unsplash.com/photo-1614680376593-902f74cf0d41?w=1400&h=1400&fit=crop&q=80"/>
-
+    <item>
+      <title>Feed active -- Donna is curating</title>
+      <description>This feed will populate as Donna adds curated podcast episodes. Tell her what topics and shows you want.</description>
+      <enclosure url="https://github.com/breaknbad/donna-podcasts/releases/download/placeholder/placeholder.m4a" length="1000" type="audio/mp4"/>
+      <guid isPermaLink="false">donna-picks-placeholder</guid>
+      <pubDate>Thu, 19 Mar 2026 03:26:42 GMT</pubDate>
+      <itunes:duration>00:00:01</itunes:duration>
+      <itunes:author>Donna</itunes:author>
+    </item>
   </channel>
 </rss>
