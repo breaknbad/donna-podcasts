@@ -1,39 +1,113 @@
 {
   "feeds": {
     "youtube-audio": {
-      "title": "Donna's YouTube Audio",
-      "description": "YouTube channels converted to podcast audio by Donna",
+      "title": "AI Feed",
+      "description": "AI creators converted to podcast audio — Liam Ottley's circle and beyond",
       "channels": [
         {
           "id": "liam-ottley",
           "name": "Liam Ottley",
           "youtube_channel_id": "UCui4jxDaMb53Gdh-AZUTPAg",
           "image": "https://yt3.googleusercontent.com/ytc/AIdro_lZTJ2GjIKfiQPXwlhY7HxsZn7LFMd4DYjkCWaAkJSIhQ=s900-c-k-c0x00ffffff-no-rj",
-          "download_audio": true
+          "download_audio": true,
+          "youtube_handle": "LiamOttley"
+        },
+        {
+          "id": "nate-herk",
+          "name": "Nate Herk",
+          "youtube_channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
+          "image": "",
+          "download_audio": true,
+          "youtube_handle": "nateherk"
+        },
+        {
+          "id": "david-ondrej",
+          "name": "David Ondrej",
+          "youtube_channel_id": "UCPGrgwfbkjTIgPoOh2q1BAg",
+          "image": "",
+          "download_audio": true,
+          "youtube_handle": "DavidOndrej"
+        },
+        {
+          "id": "matt-wolfe",
+          "name": "Matt Wolfe",
+          "youtube_channel_id": "UChpleBmo18P08aKCIgti38g",
+          "image": "",
+          "download_audio": true,
+          "youtube_handle": "MattWolfe"
+        },
+        {
+          "id": "alex-finn",
+          "name": "Alex Finn",
+          "youtube_channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
+          "image": "",
+          "download_audio": true,
+          "youtube_handle": "AlexFinnOfficial"
         }
       ],
       "image": "https://github.com/breaknbad/donna-podcasts/releases/download/covers/youtube-audio.png"
     },
     "curated": {
       "title": "Donna's Picks",
-      "description": "Podcast episodes curated by Donna based on Matthew's interests",
-      "sources": [],
-      "image": "https://github.com/breaknbad/donna-podcasts/releases/download/covers/donnas-picks.png"
-    },
-    "wrestling": {
-      "title": "FlowRestling",
-      "description": "FlowRestling Radio Live + The Bader Show",
+      "description": "Leadership, business, personal development, and scaling — curated by Donna",
       "sources": [
         {
-          "name": "FRL",
-          "rss": "https://feeds.megaphone.fm/FLOSP3475327438"
+          "name": "My First Million",
+          "rss": "https://feeds.megaphone.fm/HS2300184645",
+          "category": "business"
         },
         {
-          "name": "Bader Show",
-          "rss": "https://feeds.megaphone.fm/FLOSP9913687470"
+          "name": "How I Built This",
+          "rss": "https://rss.art19.com/how-i-built-this",
+          "category": "leadership"
+        },
+        {
+          "name": "Masters of Scale",
+          "rss": "https://rss.art19.com/masters-of-scale",
+          "category": "scaling"
+        },
+        {
+          "name": "All-In Podcast",
+          "rss": "https://allinchamathjason.libsyn.com/rss",
+          "category": "business"
+        },
+        {
+          "name": "The Game with Alex Hormozi",
+          "rss": "https://feeds.captivate.fm/the-game-alex-hormozi/",
+          "category": "scaling"
+        },
+        {
+          "name": "The Tim Ferriss Show",
+          "rss": "https://timferriss.libsyn.com/rss",
+          "category": "personal-dev"
+        },
+        {
+          "name": "Huberman Lab",
+          "rss": "https://feeds.megaphone.fm/hubermanlab",
+          "category": "personal-dev"
+        },
+        {
+          "name": "Exponent",
+          "rss": "https://exponent.fm/feed/",
+          "category": "business"
+        },
+        {
+          "name": "a16z Podcast",
+          "rss": "https://feeds.simplecast.com/JGE3yC0V",
+          "category": "business"
+        },
+        {
+          "name": "The Indicator",
+          "rss": "https://feeds.npr.org/510325/podcast.xml",
+          "category": "finance"
+        },
+        {
+          "name": "Indie Hackers",
+          "rss": "https://feeds.transistor.fm/the-indie-hackers-podcast",
+          "category": "business"
         }
       ],
-      "image": "https://megaphone.imgix.net/podcasts/1a4ea1d2-11d7-11ed-a0b6-47fd995edfb2/image/FRL_thumb.png?ixlib=rails-4.3.1&max-w=1400&max-h=1400&fit=crop&auto=format,compress"
+      "image": "https://github.com/breaknbad/donna-podcasts/releases/download/covers/donnas-picks.png"
     }
   },
   "interests": [
