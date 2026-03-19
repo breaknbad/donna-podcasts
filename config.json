@@ -1,0 +1,35 @@
+{
+  "feeds": {
+    "youtube-audio": {
+      "title": "Donna's YouTube Audio",
+      "description": "YouTube channels converted to podcast audio by Donna",
+      "channels": [
+        {
+          "id": "liam-ottley",
+          "name": "Liam Ottley",
+          "youtube_channel_id": "UCui4jxDaMb53Gdh-AZUTPAg",
+          "image": "https://yt3.googleusercontent.com/ytc/AIdro_lZTJ2GjIKfiQPXwlhY7HxsZn7LFMd4DYjkCWaAkJSIhQ=s900-c-k-c0x00ffffff-no-rj",
+          "download_audio": true
+        }
+      ]
+    },
+    "curated": {
+      "title": "Donna's Picks",
+      "description": "Podcast episodes curated by Donna based on Matthew's interests",
+      "sources": []
+    }
+  },
+  "interests": [
+    "AI agents",
+    "AI automation",
+    "Claude",
+    "business scaling",
+    "sports cards",
+    "hobby industry",
+    "e-commerce",
+    "entrepreneurship",
+    "operations",
+    "leadership"
+  ],
+  "github_pages_base": "https://breaknbad.github.io/donna-podcasts"
+}

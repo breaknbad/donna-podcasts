@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Donna&apos;s Picks</title>
+    <description>Podcast episodes curated by Donna based on Matthew&apos;s interests</description>
+    <link>https://github.com/breaknbad/donna-podcasts</link>
+    <language>en-us</language>
+    <itunes:author>Donna</itunes:author>
+
+  </channel>
+</rss>
