@@ -118,12 +118,15 @@ async function processYouTube(config) {
         const audioPath = downloadAudio(entry.id, channelDir);
         if (audioPath) {
           const { size, duration } = getFileInfo(audioPath);
+          console.log(`  Uploading to GitHub release...`);
+          const releaseUrl = uploadReleaseAsset(channel.id, entry.id, audioPath);
           episodes.push({
             id: entry.id,
             title: entry.title,
             published: entry.published,
             description: entry.description,
             downloaded: true,
+            releaseUrl,
             size,
             duration,
             channel: channel.id,
@@ -140,6 +143,29 @@ async function processYouTube(config) {
   return totalNew;
 }
 
+function uploadReleaseAsset(channelId, videoId, filePath) {
+  const tag = `${channelId}-audio`;
+  try {
+    // Check if release exists, create if not
+    try {
+      execSync(`/opt/homebrew/bin/gh release view ${tag} --repo breaknbad/donna-podcasts`, { stdio: 'pipe' });
+    } catch {
+      execSync(`/opt/homebrew/bin/gh release create ${tag} --title "${channelId} Audio" --notes "Audio files" --repo breaknbad/donna-podcasts`, { stdio: 'pipe' });
+    }
+    // Upload asset
+    const filename = path.basename(filePath);
+    execSync(`/opt/homebrew/bin/gh release upload ${tag} '${filePath}' --clobber --repo breaknbad/donna-podcasts`, { stdio: 'pipe', timeout: 300000 });
+    return `https://github.com/breaknbad/donna-podcasts/releases/download/${tag}/${filename}`;
+  } catch (e) {
+    console.error(`  Upload failed: ${e.message.split('\n')[0]}`);
+    return null;
+  }
+}
+
+function getReleaseAssetUrl(channelId, videoId) {
+  return `https://github.com/breaknbad/donna-podcasts/releases/download/${channelId}-audio/${videoId}.m4a`;
+}
+
 function generateYouTubeFeed(config, baseUrl) {
   const ytConfig = config.feeds['youtube-audio'];
   let allEpisodes = [];
@@ -154,7 +180,7 @@ function generateYouTubeFeed(config, baseUrl) {
   allEpisodes.sort((a, b) => new Date(b.published) - new Date(a.published));
 
   const items = allEpisodes.filter(e => e.downloaded).map(e => {
-    const audioUrl = `${baseUrl}/audio/${e.channel}/${e.id}.m4a`;
+    const audioUrl = e.releaseUrl || getReleaseAssetUrl(e.channel, e.id);
     return `    <item>
       <title>${escapeXml(e.title)}</title>
       <description>${escapeXml(e.channelName + ': ' + e.description)}</description>
