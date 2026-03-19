@@ -12,13 +12,13 @@
           "download_audio": true
         }
       ],
-      "image": "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=1400&h=1400&fit=crop&q=80"
+      "image": "https://github.com/breaknbad/donna-podcasts/releases/download/covers/youtube-audio.png"
     },
     "curated": {
       "title": "Donna's Picks",
       "description": "Podcast episodes curated by Donna based on Matthew's interests",
       "sources": [],
-      "image": "https://images.unsplash.com/photo-1614680376593-902f74cf0d41?w=1400&h=1400&fit=crop&q=80"
+      "image": "https://github.com/breaknbad/donna-podcasts/releases/download/covers/donnas-picks.png"
     },
     "wrestling": {
       "title": "FlowRestling",

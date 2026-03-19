@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1400" viewBox="0 0 1400 1400">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#16213e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="1400" fill="url(#bg)"/>
+  <!-- Waveform bars -->
+  <g transform="translate(200, 500)" opacity="0.3">
+    <rect x="0" y="80" width="40" height="240" rx="20" fill="#e94560"/>
+    <rect x="70" y="40" width="40" height="320" rx="20" fill="#e94560"/>
+    <rect x="140" y="100" width="40" height="200" rx="20" fill="#e94560"/>
+    <rect x="210" y="20" width="40" height="360" rx="20" fill="#e94560"/>
+    <rect x="280" y="60" width="40" height="280" rx="20" fill="#e94560"/>
+    <rect x="350" y="120" width="40" height="160" rx="20" fill="#e94560"/>
+    <rect x="420" y="0" width="40" height="400" rx="20" fill="#e94560"/>
+    <rect x="490" y="80" width="40" height="240" rx="20" fill="#e94560"/>
+    <rect x="560" y="40" width="40" height="320" rx="20" fill="#e94560"/>
+    <rect x="630" y="100" width="40" height="200" rx="20" fill="#e94560"/>
+    <rect x="700" y="60" width="40" height="280" rx="20" fill="#e94560"/>
+    <rect x="770" y="20" width="40" height="360" rx="20" fill="#e94560"/>
+    <rect x="840" y="80" width="40" height="240" rx="20" fill="#e94560"/>
+    <rect x="910" y="120" width="40" height="160" rx="20" fill="#e94560"/>
+  </g>
+  <!-- Play triangle -->
+  <polygon points="620,580 620,820 820,700" fill="#e94560" opacity="0.6"/>
+  <!-- Text -->
+  <text x="700" y="1050" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-weight="bold" font-size="120" fill="#ffffff">YOUTUBE</text>
+  <text x="700" y="1180" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-weight="300" font-size="80" fill="#e94560">AUDIO</text>
+  <text x="700" y="1300" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-weight="300" font-size="40" fill="#ffffff" opacity="0.5">curated by Donna</text>
+</svg>
