@@ -19,6 +19,21 @@
       "description": "Podcast episodes curated by Donna based on Matthew's interests",
       "sources": [],
       "image": "https://images.unsplash.com/photo-1614680376593-902f74cf0d41?w=1400&h=1400&fit=crop&q=80"
+    },
+    "wrestling": {
+      "title": "FlowRestling",
+      "description": "FlowRestling Radio Live + The Bader Show",
+      "sources": [
+        {
+          "name": "FRL",
+          "rss": "https://feeds.megaphone.fm/FLOSP3475327438"
+        },
+        {
+          "name": "Bader Show",
+          "rss": "https://feeds.megaphone.fm/FLOSP9913687470"
+        }
+      ],
+      "image": "https://megaphone.imgix.net/podcasts/1a4ea1d2-11d7-11ed-a0b6-47fd995edfb2/image/FRL_thumb.png?ixlib=rails-4.3.1&max-w=1400&max-h=1400&fit=crop&auto=format,compress"
     }
   },
   "interests": [
