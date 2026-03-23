@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Donna&apos;s Picks</title>
-    <description>Leadership, business, personal development — curated by Donna</description>
+    <description>Top episodes from 22 podcasts, hand-picked 3x/week. Scaling, leadership, AI, personal growth. Sources include My First Million, Hormozi, All-In, Huberman, Tim Ferriss, and more.</description>
     <link>https://github.com/breaknbad/donna-podcasts</link>
     <language>en-us</language>
     <itunes:author>Donna</itunes:author>
