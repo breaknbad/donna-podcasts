@@ -1,25 +1,83 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1400" viewBox="0 0 1400 1400">
   <defs>
-    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0f0c29"/>
-      <stop offset="50%" style="stop-color:#302b63"/>
-      <stop offset="100%" style="stop-color:#24243e"/>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a0a2e"/>
+      <stop offset="50%" style="stop-color:#16213e"/>
+      <stop offset="100%" style="stop-color:#0f3460"/>
     </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e94560"/>
+      <stop offset="100%" style="stop-color:#ff6b6b"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f5af19"/>
+      <stop offset="100%" style="stop-color:#f12711"/>
+    </linearGradient>
+    <filter id="softglow">
+      <feGaussianBlur stdDeviation="20" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#000" flood-opacity="0.3"/>
+    </filter>
   </defs>
-  <rect width="1400" height="1400" fill="url(#bg2)"/>
-  <!-- Headphones icon -->
-  <g transform="translate(700, 500)" fill="none" stroke="#f5af19" stroke-width="12">
-    <path d="M-180,80 C-180,-100 180,-100 180,80" stroke-linecap="round"/>
-    <rect x="-220" y="60" width="80" height="140" rx="20" fill="#f5af19" opacity="0.7" stroke="none"/>
-    <rect x="140" y="60" width="80" height="140" rx="20" fill="#f5af19" opacity="0.7" stroke="none"/>
+
+  <!-- Deep gradient background -->
+  <rect width="1400" height="1400" fill="url(#bg)"/>
+
+  <!-- Subtle grid pattern -->
+  <g opacity="0.03">
+    <line x1="0" y1="200" x2="1400" y2="200" stroke="#fff" stroke-width="1"/>
+    <line x1="0" y1="400" x2="1400" y2="400" stroke="#fff" stroke-width="1"/>
+    <line x1="0" y1="600" x2="1400" y2="600" stroke="#fff" stroke-width="1"/>
+    <line x1="0" y1="800" x2="1400" y2="800" stroke="#fff" stroke-width="1"/>
+    <line x1="0" y1="1000" x2="1400" y2="1000" stroke="#fff" stroke-width="1"/>
+    <line x1="0" y1="1200" x2="1400" y2="1200" stroke="#fff" stroke-width="1"/>
+    <line x1="200" y1="0" x2="200" y2="1400" stroke="#fff" stroke-width="1"/>
+    <line x1="400" y1="0" x2="400" y2="1400" stroke="#fff" stroke-width="1"/>
+    <line x1="600" y1="0" x2="600" y2="1400" stroke="#fff" stroke-width="1"/>
+    <line x1="800" y1="0" x2="800" y2="1400" stroke="#fff" stroke-width="1"/>
+    <line x1="1000" y1="0" x2="1000" y2="1400" stroke="#fff" stroke-width="1"/>
+    <line x1="1200" y1="0" x2="1200" y2="1400" stroke="#fff" stroke-width="1"/>
   </g>
-  <!-- Stars/sparkles -->
-  <text x="400" y="350" font-size="60" fill="#f5af19" opacity="0.4">✦</text>
-  <text x="1050" y="400" font-size="40" fill="#f5af19" opacity="0.3">✦</text>
-  <text x="300" y="800" font-size="30" fill="#f5af19" opacity="0.2">✦</text>
-  <text x="1100" y="750" font-size="50" fill="#f5af19" opacity="0.3">✦</text>
-  <!-- Text -->
-  <text x="700" y="950" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-weight="bold" font-size="140" fill="#ffffff">DONNA'S</text>
-  <text x="700" y="1100" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-weight="bold" font-size="140" fill="#f5af19">PICKS</text>
-  <text x="700" y="1200" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-weight="300" font-size="50" fill="#ffffff" opacity="0.5">podcast episodes, curated</text>
+
+  <!-- Large glowing circle backdrop -->
+  <circle cx="700" cy="520" r="280" fill="#e94560" opacity="0.06" filter="url(#softglow)"/>
+  <circle cx="700" cy="520" r="180" fill="#e94560" opacity="0.04" filter="url(#softglow)"/>
+
+  <!-- Microphone icon (simplified, elegant) -->
+  <g transform="translate(700, 460)" filter="url(#shadow)">
+    <!-- Mic body -->
+    <rect x="-40" y="-120" width="80" height="160" rx="40" fill="none" stroke="url(#accent)" stroke-width="6"/>
+    <!-- Mic stand arc -->
+    <path d="M-70,60 C-70,120 70,120 70,60" fill="none" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
+    <!-- Mic stand line -->
+    <line x1="0" y1="120" x2="0" y2="180" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
+    <!-- Base -->
+    <line x1="-40" y1="180" x2="40" y2="180" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
+    <!-- Sound lines -->
+    <path d="M-100,-40 C-130,-100 -130,60 -100,0" fill="none" stroke="#ff6b6b" stroke-width="3" opacity="0.3" stroke-linecap="round"/>
+    <path d="M100,-40 C130,-100 130,60 100,0" fill="none" stroke="#ff6b6b" stroke-width="3" opacity="0.3" stroke-linecap="round"/>
+    <path d="M-130,-60 C-170,-140 -170,80 -130,20" fill="none" stroke="#ff6b6b" stroke-width="2" opacity="0.15" stroke-linecap="round"/>
+    <path d="M130,-60 C170,-140 170,80 130,20" fill="none" stroke="#ff6b6b" stroke-width="2" opacity="0.15" stroke-linecap="round"/>
+  </g>
+
+  <!-- Star / pick badge -->
+  <g transform="translate(880, 340)" filter="url(#softglow)">
+    <polygon points="0,-30 7,-10 28,-10 12,4 18,25 0,14 -18,25 -12,4 -28,-10 -7,-10" fill="url(#gold)" opacity="0.8"/>
+  </g>
+
+  <!-- Title -->
+  <text x="700" y="870" text-anchor="middle" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="900" font-size="120" fill="#ffffff" letter-spacing="4" filter="url(#shadow)">DONNA'S</text>
+  <text x="700" y="990" text-anchor="middle" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="900" font-size="120" fill="url(#accent)" letter-spacing="4" filter="url(#shadow)">PICKS</text>
+
+  <!-- Thin divider -->
+  <rect x="500" y="1030" width="400" height="2" rx="1" fill="#ffffff" opacity="0.15"/>
+
+  <!-- Subtitle -->
+  <text x="700" y="1090" text-anchor="middle" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="400" font-size="32" fill="#ffffff" opacity="0.45" letter-spacing="12">CURATED FOR FOUNDERS</text>
+
+  <!-- Source count badge -->
+  <rect x="600" y="1130" width="200" height="44" rx="22" fill="#ffffff" opacity="0.06"/>
+  <text x="700" y="1160" text-anchor="middle" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="500" font-size="22" fill="#ffffff" opacity="0.35" letter-spacing="3">22 SOURCES</text>
 </svg>
