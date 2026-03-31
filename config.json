@@ -2,7 +2,7 @@
   "feeds": {
     "youtube-audio": {
       "title": "AI Feed",
-      "description": "AI creators converted to podcast audio — Liam Ottley's circle and beyond",
+      "description": "AI creators converted to podcast audio \u2014 Liam Ottley, Nate Herk, David Ondrej, Alex Finn, and more",
       "channels": [
         {
           "id": "liam-ottley",
@@ -45,11 +45,11 @@
           "youtube_handle": "AlexFinnOfficial"
         }
       ],
-      "image": "https://github.com/breaknbad/donna-podcasts/releases/download/covers/youtube-audio.png"
+      "image": "https://breaknbad.github.io/donna-podcasts/youtube-audio.png"
     },
     "curated": {
       "title": "Donna's Picks",
-      "description": "Leadership, business, personal development, and scaling — curated by Donna",
+      "description": "Top episodes from 22 podcasts, hand-picked 3x/week. Scaling, leadership, AI, personal growth. Sources include My First Million, Hormozi, All-In, Huberman, Tim Ferriss, and more.",
       "sources": [
         {
           "name": "My First Million",
@@ -105,9 +105,64 @@
           "name": "Indie Hackers",
           "rss": "https://feeds.transistor.fm/the-indie-hackers-podcast",
           "category": "business"
+        },
+        {
+          "name": "The Diary of a CEO",
+          "rss": "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn",
+          "category": "leadership"
+        },
+        {
+          "name": "Invest Like the Best",
+          "rss": "https://feeds.megaphone.fm/investlikethebest",
+          "category": "finance"
+        },
+        {
+          "name": "The Knowledge Project",
+          "rss": "https://feeds.megaphone.fm/FSMI7575968096",
+          "category": "personal-dev"
+        },
+        {
+          "name": "Lenny's Podcast",
+          "rss": "https://api.substack.com/feed/podcast/10845.rss",
+          "category": "scaling"
+        },
+        {
+          "name": "20 Minute VC",
+          "rss": "https://thetwentyminutevc.libsyn.com/rss",
+          "category": "business"
+        },
+        {
+          "name": "The Prof G Pod",
+          "rss": "https://feeds.megaphone.fm/WWO6655869236",
+          "category": "business"
+        },
+        {
+          "name": "Pivot",
+          "rss": "https://feeds.megaphone.fm/pivot",
+          "category": "business"
+        },
+        {
+          "name": "WorkLife with Adam Grant",
+          "rss": "https://feeds.feedburner.com/WorklifeWithAdamGrant",
+          "category": "leadership"
+        },
+        {
+          "name": "Rich Roll Podcast",
+          "rss": "https://feeds.megaphone.fm/the-rich-roll-podcast",
+          "category": "personal-dev"
+        },
+        {
+          "name": "The Jordan Harbinger Show",
+          "rss": "https://rss.art19.com/the-jordan-harbinger-show",
+          "category": "personal-dev"
+        },
+        {
+          "name": "On Purpose with Jay Shetty",
+          "rss": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/32f1779e-bc01-4d36-89e6-afcb01070c82/e0c8382f-48d4-42bb-89d5-afcb01075cb4/podcast.rss",
+          "category": "personal-dev"
         }
       ],
-      "image": "https://github.com/breaknbad/donna-podcasts/releases/download/covers/donnas-picks.png"
+      "image": "https://breaknbad.github.io/donna-podcasts/donnas-picks.png"
     }
   },
   "interests": [
