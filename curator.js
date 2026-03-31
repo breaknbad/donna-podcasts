@@ -193,10 +193,14 @@ function generateYouTubeFeed(config) {
 
   const coverImage = ytConfig.image || 'https://github.com/breaknbad/donna-podcasts/releases/download/covers/youtube-audio.png';
 
+  const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+  const fmtDate = (s) => { const d = new Date(s); return isNaN(d) ? '' : `${months[d.getMonth()]} ${d.getDate()}`; };
   const items = allEpisodes.filter(e => e.downloaded).map(e => {
     const audioUrl = e.releaseUrl || getReleaseAssetUrl(e.channel, e.id);
+    const dt = fmtDate(e.published);
+    const prefix = dt ? `${e.channelName} — ${dt}` : e.channelName;
     return `    <item>
-      <title>${escapeXml(e.title)}</title>
+      <title>${escapeXml(`${prefix} | ${e.title}`)}</title>
       <description>${escapeXml(e.channelName + ': ' + e.description)}</description>
       <enclosure url="${escapeXml(audioUrl)}" length="${e.size}" type="audio/mp4"/>
       <guid isPermaLink="false">yt-${e.id}</guid>
@@ -287,15 +291,21 @@ function generateCuratedFeed(config) {
   const curConfig = config.feeds.curated;
   curated.sort((a, b) => new Date(b.curatedAt) - new Date(a.curatedAt));
   const coverImage = curConfig.image || 'https://github.com/breaknbad/donna-podcasts/releases/download/covers/donnas-picks.png';
-  const items = curated.map(e => `    <item>
-      <title>${escapeXml(e.title)}</title>
+  const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+  const fmtDate2 = (s) => { const d = new Date(s); return isNaN(d) ? '' : `${months[d.getMonth()]} ${d.getDate()}`; };
+  const items = curated.map(e => {
+    const dt = fmtDate2(e.pubDate || e.curatedAt);
+    const prefix = dt ? `${e.showTitle} — ${dt}` : e.showTitle;
+    return `    <item>
+      <title>${escapeXml(`${prefix} | ${e.title}`)}</title>
       <description>${escapeXml('[' + e.showTitle + '] ' + e.description)}</description>
       <enclosure url="${escapeXml(e.audioUrl)}" length="${e.size}" type="${e.type}"/>
       <guid isPermaLink="false">${escapeXml(e.guid)}</guid>
       <pubDate>${e.pubDate || new Date(e.curatedAt).toUTCString()}</pubDate>
       ${e.duration ? `<itunes:duration>${e.duration}</itunes:duration>` : ''}
       <itunes:author>${escapeXml(e.showTitle)}</itunes:author>
-    </item>`).join('\n');
+    </item>`;
+  }).join('\n');
 
   return `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
@@ -322,7 +332,7 @@ function publish(config) {
 
   console.log('Pushing to GitHub Pages...');
   try {
-    execSync('git add feeds/ && git diff --cached --quiet || git commit -m "Update feeds ' + new Date().toISOString().split('T')[0] + '"', {
+    execSync('git add feeds/ *.png covers/ && git diff --cached --quiet || git commit -m "Update feeds ' + new Date().toISOString().split('T')[0] + '"', {
       cwd: BASE_DIR, encoding: 'utf-8', stdio: 'pipe'
     });
     execSync('git push 2>&1', { cwd: BASE_DIR, encoding: 'utf-8', stdio: 'pipe' });
