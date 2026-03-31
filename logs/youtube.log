@@ -221,3 +221,34 @@ Generating Curated feed...
 Pushing to GitHub Pages...
 Published!
 === Done ===
+=== YouTube sync 2026-03-31 07:00 ===
+
+Checking: Liam Ottley (@LiamOttley)
+  No new videos
+
+Checking: Nate Herk (@nateherk)
+  2 new videos
+  Processing: Codex Just 10x’d Claude Code Projects
+  Downloading: B2Kh_ZoLVTM...
+  Uploading to GitHub release...
+  Processing: 5 ‘Boring’ AI Workflows that Businesses Actually Want (And How to Sell them)
+  Downloading: Y3PcRp5RFzk...
+  Uploading to GitHub release...
+
+Checking: David Ondrej (@DavidOndrej)
+  No new videos
+
+Checking: Matt Wolfe (@MattWolfe)
+  yt-dlp failed: Command failed: /opt/homebrew/bin/yt-dlp --flat-playlist --print "%(id)s|||%(title)s|||%(upload_date)s|||%(description)s" --playlist-items 1-5 "https://www.youtube.com/@MattWolfe/videos"
+  No new videos
+
+Checking: Alex Finn (@AlexFinnOfficial)
+  No new videos
+
+YouTube: 2 new episodes
+
+Generating AI Feed...
+Generating Curated feed...
+Pushing to GitHub Pages...
+Published!
+=== Done ===
