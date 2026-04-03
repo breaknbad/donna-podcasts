@@ -8,6 +8,24 @@
     <itunes:author>Donna</itunes:author>
     <itunes:image href="https://breaknbad.github.io/donna-podcasts/donnas-picks-v2.png"/>
     <item>
+      <title>Lenny&apos;s Podcast: Product | Career | Growth — Apr 2 | An AI state of the union: We’ve passed the inflection point, dark factories are coming, and automation timelines | Simon Willison</title>
+      <description>[Lenny&apos;s Podcast: Product | Career | Growth] &lt;p&gt;&lt;strong&gt;Simon Willison&lt;/strong&gt; is a prolific independent software developer, a blogger, and one of the most visible and trusted voices on the impact AI is having on builders. He co-created Django, the web framework that powers Instagram, Pinterest, and tens of thousands of other websites. He coined the term “prompt injection,” popularized the terms “AI slop” and “agentic engineering,” and has built over 100 open source projects, including Datasette, a data analysis tool used by investigative</description>
+      <enclosure url="https://api.substack.com/feed/podcast/192024618/a69057acb3896d84a7c82584510a1e96.mp3" length="95851275" type="audio/mpeg"/>
+      <guid isPermaLink="false">substack:post:192024618</guid>
+      <pubDate>Thu, 02 Apr 2026 12:32:28 GMT</pubDate>
+      <itunes:duration>5991</itunes:duration>
+      <itunes:author>Lenny&apos;s Podcast: Product | Career | Growth</itunes:author>
+    </item>
+    <item>
+      <title>The a16z Show — Apr 1 | What Happens When a Public Company Goes All In on AI</title>
+      <description>[The a16z Show] &lt;p&gt;David Haber speaks with Owen Jennings, executive officer and business lead at Block, about how the company rebuilt itself around AI agents, small squads, and internal tools like Goose and Builder Bot after restructuring more than 40% of its workforce. They discuss what it took to execute a major restructuring, how teams of three are now doing what teams of 14 used to, and how Block is shipping AI-native products like Money Bot and Manager Bot that generate custom interfaces on the fly for ten</description>
+      <enclosure url="https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/01039473-10d8-42eb-8894-b736a613aa14/audio/128/default.mp3?aid=rss_feed&amp;amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;amp;awEpisodeId=01039473-10d8-42eb-8894-b736a613aa14&amp;amp;feed=JGE3yC0V" length="26749919" type="audio/mpeg"/>
+      <guid isPermaLink="false">36dd6e38-bd6d-4283-975a-b386e4a2f86c</guid>
+      <pubDate>Wed, 1 Apr 2026 10:00:00 +0000</pubDate>
+      <itunes:duration>00:27:51</itunes:duration>
+      <itunes:author>The a16z Show</itunes:author>
+    </item>
+    <item>
       <title>The a16z Show — Mar 30 | Marc Andreessen on Evaluating Founders and AI&amp;apos;s Consumer Surplus</title>
       <description>[The a16z Show] &lt;p&gt;This episode originally aired on The Twenty Minute VC with Harry Stebbings. Marc Andreessen explains why learning from past investment mistakes can be a trap, shares his framework for evaluating founder greatness through IQ, courage, and drive, and makes the case that venture investors should back the person over the business plan. They also discuss why AI is reconcentrating the tech industry in Silicon Valley, the concept of consumer surplus and where 99% of AI&apos;s value will actually go, and </description>
       <enclosure url="https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/6aebc59f-f776-4312-ab95-8e3b20f4d19f/audio/128/default.mp3?aid=rss_feed&amp;amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;amp;awEpisodeId=6aebc59f-f776-4312-ab95-8e3b20f4d19f&amp;amp;feed=JGE3yC0V" length="64966017" type="audio/mpeg"/>
