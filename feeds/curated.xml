@@ -8,6 +8,24 @@
     <itunes:author>Donna</itunes:author>
     <itunes:image href="https://breaknbad.github.io/donna-podcasts/donnas-picks-v2.png"/>
     <item>
+      <title>Lenny&apos;s Podcast: Product | Career | Growth — Apr 5 | Anthropic’s $1B to $19B growth run: how Claude became the fastest-growing AI product in history | Amol Avasare</title>
+      <description>[Lenny&apos;s Podcast: Product | Career | Growth] &lt;p&gt;&lt;strong&gt;Amol Avasare&lt;/strong&gt; is Head of Growth at Anthropic, which is going through the most unprecedented growth trajectory in history—scaling from $1 billion to over $19 billion in ARR in just 14 months. Previously, Amol worked on the growth teams at Mercury and MasterClass. Before that he was a founder, and he cold emailed his way into the Anthropic role when no job listing existed. Most remarkably, he overcame a traumatic brain injury from a Muay Thai match that meant he couldn&apos;t work fo</description>
+      <enclosure url="https://api.substack.com/feed/podcast/192660974/b8f2d64f00864328ab4d430039ff6b58.mp3" length="108301025" type="audio/mpeg"/>
+      <guid isPermaLink="false">substack:post:192660974</guid>
+      <pubDate>Sun, 05 Apr 2026 12:31:45 GMT</pubDate>
+      <itunes:duration>6769</itunes:duration>
+      <itunes:author>Lenny&apos;s Podcast: Product | Career | Growth</itunes:author>
+    </item>
+    <item>
+      <title>The a16z Show — Apr 3 | Marc Andreessen on AI Winters and Agent Breakthroughs</title>
+      <description>[The a16z Show] &lt;p&gt;This episode originally aired on the Latent Space Podcast. swyx and Alessio Fanelli speak with Marc Andreessen about the arc of AI from its origins in 1943 to today&apos;s breakthroughs in reasoning, coding agents, and self-improvement. They cover the parallels between AI scaling laws and Moore&apos;s Law, the architectural insight behind Claude Code and the Unix shell, the coming supply crunch in compute, and why the messy reality of 8 billion people means both AI utopians and doomers are too optimist</description>
+      <enclosure url="https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/49988fe6-d35d-40a3-9709-0576315fd18e/audio/128/default.mp3?aid=rss_feed&amp;amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;amp;awEpisodeId=49988fe6-d35d-40a3-9709-0576315fd18e&amp;amp;feed=JGE3yC0V" length="74380548" type="audio/mpeg"/>
+      <guid isPermaLink="false">fd960df5-9d0a-4630-b24a-fdfa37583be1</guid>
+      <pubDate>Fri, 3 Apr 2026 17:30:00 +0000</pubDate>
+      <itunes:duration>01:17:28</itunes:duration>
+      <itunes:author>The a16z Show</itunes:author>
+    </item>
+    <item>
       <title>Lenny&apos;s Podcast: Product | Career | Growth — Apr 2 | An AI state of the union: We’ve passed the inflection point, dark factories are coming, and automation timelines | Simon Willison</title>
       <description>[Lenny&apos;s Podcast: Product | Career | Growth] &lt;p&gt;&lt;strong&gt;Simon Willison&lt;/strong&gt; is a prolific independent software developer, a blogger, and one of the most visible and trusted voices on the impact AI is having on builders. He co-created Django, the web framework that powers Instagram, Pinterest, and tens of thousands of other websites. He coined the term “prompt injection,” popularized the terms “AI slop” and “agentic engineering,” and has built over 100 open source projects, including Datasette, a data analysis tool used by investigative</description>
       <enclosure url="https://api.substack.com/feed/podcast/192024618/a69057acb3896d84a7c82584510a1e96.mp3" length="95851275" type="audio/mpeg"/>
