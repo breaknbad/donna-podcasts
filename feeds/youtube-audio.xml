@@ -992,6 +992,15 @@ Liam Ottley maps 11 proven AI business models that work in 2026—with real-worl
       <itunes:author>Nate Herk</itunes:author>
     </item>
     <item>
+      <title>Nate Herk | Claude Code + Playwright Automates Literally Anything</title>
+      <description>Nate Herk: Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=playwright-cli</description>
+      <enclosure url="https://github.com/breaknbad/donna-podcasts/releases/download/nate-herk-audio/J-6pnl5DQg8.m4a" length="18282728" type="audio/mp4"/>
+      <guid isPermaLink="false">yt-J-6pnl5DQg8</guid>
+      <pubDate>Invalid Date</pubDate>
+      <itunes:duration>00:18:50</itunes:duration>
+      <itunes:author>Nate Herk</itunes:author>
+    </item>
+    <item>
       <title>David Ondrej | Perplexity just destroyed OpenClaw… (Computer)</title>
       <description>David Ondrej: Check out Creem: https://www.creem.io/</description>
       <enclosure url="https://github.com/breaknbad/donna-podcasts/releases/download/david-ondrej-audio/tJ-INHRf8SY.m4a" length="35061875" type="audio/mp4"/>
@@ -1763,6 +1772,15 @@ Liam Ottley maps 11 proven AI business models that work in 2026—with real-worl
       <guid isPermaLink="false">yt-_v_heNg0j1c</guid>
       <pubDate>Invalid Date</pubDate>
       <itunes:duration>00:23:48</itunes:duration>
+      <itunes:author>Alex Finn</itunes:author>
+    </item>
+    <item>
+      <title>Alex Finn | ChatGPT 5.5 Codex vs Opus 4.7: The winner is clear</title>
+      <description>Alex Finn: ChatGPT 5.5 Codex just dropped. Here is a master workflow and how it compares to Claude Opus 4.7 in Claude Code</description>
+      <enclosure url="https://github.com/breaknbad/donna-podcasts/releases/download/alex-finn-audio/cgp-gfSbmNE.m4a" length="29622723" type="audio/mp4"/>
+      <guid isPermaLink="false">yt-cgp-gfSbmNE</guid>
+      <pubDate>Invalid Date</pubDate>
+      <itunes:duration>00:30:32</itunes:duration>
       <itunes:author>Alex Finn</itunes:author>
     </item>
   </channel>
