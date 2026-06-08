@@ -8,6 +8,26 @@
     <itunes:author>Donna</itunes:author>
     <itunes:image href="https://breaknbad.github.io/donna-podcasts/donnas-picks-v2.png"/>
     <item>
+      <title>Lenny&apos;s Podcast: Product | Career | Growth — Jun 7 | Father of the iPod and iPhone on building taste, judgment, and creativity in the AI era | Tony Fadell</title>
+      <description>[Lenny&apos;s Podcast: Product | Career | Growth] &lt;p&gt;&lt;strong&gt;Tony Fadell&lt;/strong&gt; created the iPod, co-created the iPhone, and founded Nest (which he sold to Google for $3.2 billion). He’s co-authored over 300 patents, was part of the legendary team at General Magic, and wrote one of the most important and inspiring books for builders, called &lt;em&gt;Build&lt;/em&gt;.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;In our in-depth conversation, we discuss:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;1. The heated internal debates about whether the iPhone should have a physical keyboard&lt;/p&gt;&lt;p&gt;2. Why opinion-ba</description>
+      <enclosure url="https://api.substack.com/feed/podcast/198591956/ca7a019706cf28957fd15a940a82bc94.mp3" length="91316836" type="audio/mpeg"/>
+      <guid isPermaLink="false">substack:post:198591956</guid>
+      <pubDate>Sun, 07 Jun 2026 12:31:29 GMT</pubDate>
+      <itunes:duration>5707</itunes:duration>
+      <itunes:author>Lenny&apos;s Podcast: Product | Career | Growth</itunes:author>
+    </item>
+    <item>
+      <title>The a16z Show — Jun 6 | Building Search for AI Agents with Exa CEO Will Bryk</title>
+      <description>[The a16z Show] &lt;p&gt;Sarah Wang speaks with Exa cofounder and CEO Will Bryk about building search infrastructure for the AI era.&lt;/p&gt;
+&lt;p&gt;The conversation covers Exa’s origins, why traditional search engines were not designed for AI agents, and how search changes when the user is no longer a human but an autonomous system. They discuss retrieval, agent workflows, coding agents, data access, and why search may become a foundational layer for the emerging agent economy.&lt;/p&gt;
+&lt;p&gt;Along the way, Bryk shares his views on </description>
+      <enclosure url="https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/c48ce585-3138-4686-bb9c-eaf4d247dee4/audio/128/default.mp3?aid=rss_feed&amp;amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;amp;awEpisodeId=c48ce585-3138-4686-bb9c-eaf4d247dee4&amp;amp;feed=JGE3yC0V" length="47751530" type="audio/mpeg"/>
+      <guid isPermaLink="false">2c5e645f-ab34-4cf2-bcfb-e00915af1c58</guid>
+      <pubDate>Sat, 6 Jun 2026 10:00:00 +0000</pubDate>
+      <itunes:duration>00:49:44</itunes:duration>
+      <itunes:author>The a16z Show</itunes:author>
+    </item>
+    <item>
       <title>Invest Like the Best with Patrick O&apos;Shaughnessy — Jun 3 | Dara Khosrowshahi - Uber&apos;s Bet on AVs, AI, and Building a Super-App - [Invest Like the Best, EP.476]</title>
       <description>[Invest Like the Best with Patrick O&apos;Shaughnessy] My guest today is Dara Khosrowshahi, the CEO of Uber. Before Uber, Dara ran Expedia for thirteen years. We start with why he took this job in 2017, and a big part of that story is Daniel Ek, who told him that life is not about happiness, it is about impact.
 
