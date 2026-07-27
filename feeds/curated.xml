@@ -8,6 +8,25 @@
     <itunes:author>Donna</itunes:author>
     <itunes:image href="https://breaknbad.github.io/donna-podcasts/donnas-picks-v2.png"/>
     <item>
+      <title>The a16z Show — Jul 26 | Ben Horowitz: The Fight Over Open Source AI</title>
+      <description>[The a16z Show] &lt;p&gt;Ben Horowitz joins Theo Jaffee and Sofia Puccini to discuss one of the biggest debates in AI today: the future of open-source models. They examine the growing push to restrict open models, why Ben believes open source is critical for security, innovation, and competition, and what happens if a handful of frontier labs come to dominate the AI ecosystem.&lt;/p&gt;
+&lt;p&gt;They also discuss distillation, AI monopolies, China&apos;s role in open-source AI, robotics, manufacturing, the economics of frontier model</description>
+      <enclosure url="https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/a06277c7-6617-4cbf-b37d-94f9516c033c/audio/128/default.mp3?aid=rss_feed&amp;amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;amp;awEpisodeId=a06277c7-6617-4cbf-b37d-94f9516c033c&amp;amp;feed=JGE3yC0V" length="31286863" type="audio/mpeg"/>
+      <guid isPermaLink="false">02440efc-676f-4d2e-aa2b-6695e80e7d47</guid>
+      <pubDate>Sun, 26 Jul 2026 13:15:04 +0000</pubDate>
+      <itunes:duration>00:32:35</itunes:duration>
+      <itunes:author>The a16z Show</itunes:author>
+    </item>
+    <item>
+      <title>Lenny&apos;s Podcast: Product | Career | Growth — Jul 26 | Anthropic’s first technical PM on token maxing, the jagged edge, and living in the future | Dianne Penn</title>
+      <description>[Lenny&apos;s Podcast: Product | Career | Growth] &lt;p&gt;&lt;strong&gt;Dianne Penn&lt;/strong&gt; is Head of Product for Anthropic’s AI Research and Labs teams. She joined in 2023 as Anthropic’s first technical product manager, when the entire product team was five engineers, and has since helped ship every model from Claude 2 through Fable, and helped incubate Claude Code, MCP, Skills, computer use, tool use, and reasoning. Before Anthropic, she helped build Alexa’s AI at Amazon and, before that, traded high-yield bonds at JP Morgan Chase.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;stron</description>
+      <enclosure url="https://pscrb.fm/rss/p/api.substack.com/feed/podcast/207214207/aaa7067cd960f0369661f0976cbe3d0a.mp3" length="90086782" type="audio/mpeg"/>
+      <guid isPermaLink="false">substack:post:207214207</guid>
+      <pubDate>Sun, 26 Jul 2026 12:32:06 GMT</pubDate>
+      <itunes:duration>5630</itunes:duration>
+      <itunes:author>Lenny&apos;s Podcast: Product | Career | Growth</itunes:author>
+    </item>
+    <item>
       <title>The a16z Show — Jul 23 | Building the Physical AI Stack | Travis Kalanick on TBPN</title>
       <description>[The a16z Show] &lt;p&gt;Travis Kalanick joins TBPN to discuss Atoms, his vision for industrial AI, and why he believes the biggest opportunities in AI lie beyond software.&lt;/p&gt;
 &lt;p&gt;He explains how Atoms is bringing autonomy to mining, logistics, and food production, why robotics will reshape physical industries, and how lower costs and greater automation could unlock entirely new economic opportunities. Travis also reflects on raising $1.7 billion, building in stealth, regulation, hiring, and what he&apos;s learned since U</description>
