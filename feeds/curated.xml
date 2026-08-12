@@ -8,6 +8,26 @@
     <itunes:author>Donna</itunes:author>
     <itunes:image href="https://breaknbad.github.io/donna-podcasts/donnas-picks-v2.png"/>
     <item>
+      <title>The a16z Show — Aug 10 | The Self-Improving Company | Kavak&amp;apos;s AI Playbook</title>
+      <description>[The a16z Show] &lt;p&gt;Angela Strange and Gabriel Vasquez are joined by Alejandro Maza Ayala, Chief Product &amp; AI Officer at Kavak, to unpack how the Latin American used-car marketplace rebuilt itself around AI agents, with 96% of customer interactions and 95% of transactions now handled by agents.&lt;/p&gt;
+&lt;p&gt;Alejandro explains why Kavak decided that simply giving employees AI tools wasn&apos;t enough, and instead redesigned the company&apos;s systems, teams, and customer experience around agents. They discuss why Kavak spends as</description>
+      <enclosure url="https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/64ca2d41-4e29-406a-b05e-d686b57f1a61/audio/128/default.mp3?aid=rss_feed&amp;amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;amp;awEpisodeId=64ca2d41-4e29-406a-b05e-d686b57f1a61&amp;amp;feed=JGE3yC0V" length="35854732" type="audio/mpeg"/>
+      <guid isPermaLink="false">70162548-bc1e-4524-b6d0-580a4bf81281</guid>
+      <pubDate>Mon, 10 Aug 2026 10:00:00 +0000</pubDate>
+      <itunes:duration>00:37:20</itunes:duration>
+      <itunes:author>The a16z Show</itunes:author>
+    </item>
+    <item>
+      <title>The a16z Show — Aug 11 | The CISO Playbook for AI Agents | Datadog</title>
+      <description>[The a16z Show] &lt;p&gt;a16z&apos;s Joel De La Garza is joined by Emilio Escobar, Chief Information Security Officer at Datadog, to discuss what it takes to secure a company where nearly every employee is using AI and more than 4,000 engineers are working with coding agents. Rather than trying to block new tools, Emilio explains why Datadog chose to embrace AI early and build the security infrastructure needed to use it safely.&lt;/p&gt;
+&lt;p&gt;They unpack how AI changes traditional assumptions around data permissions, credentials</description>
+      <enclosure url="https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/7ea50811-6563-4656-abeb-05535ef9cfd6/audio/128/default.mp3?aid=rss_feed&amp;amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;amp;awEpisodeId=7ea50811-6563-4656-abeb-05535ef9cfd6&amp;amp;feed=JGE3yC0V" length="21995627" type="audio/mpeg"/>
+      <guid isPermaLink="false">c74cda10-c994-45e0-9b42-3498fec93bc3</guid>
+      <pubDate>Tue, 11 Aug 2026 10:00:00 +0000</pubDate>
+      <itunes:duration>00:22:54</itunes:duration>
+      <itunes:author>The a16z Show</itunes:author>
+    </item>
+    <item>
       <title>The a16z Show — Aug 6 | The Engine Powering Open-Source AI</title>
       <description>[The a16z Show] &lt;p&gt;Elena Burger and Matt Bornstein are joined by Simon Mo, co-founder and CEO of Inferact, the open-source inference engine powering many of today&apos;s most advanced AI applications. Together, they explore how open-source AI evolved from a research project into critical infrastructure, why inference has become one of the most important layers of the AI stack, and what it takes to bring frontier intelligence to developers around the world.&lt;/p&gt;
 &lt;p&gt;The conversation covers vLLM&apos;s origins, the rise of o</description>
