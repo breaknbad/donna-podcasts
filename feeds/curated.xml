@@ -8,6 +8,27 @@
     <itunes:author>Donna</itunes:author>
     <itunes:image href="https://breaknbad.github.io/donna-podcasts/donnas-picks-v2.png"/>
     <item>
+      <title>The a16z Show — Aug 21 | Microsoft&amp;apos;s Deputy CISO on Securing AI Agents</title>
+      <description>[The a16z Show] &lt;p&gt;a16z&apos;s Joel De La Garza is joined by Aaron Zollman, Deputy CISO at Microsoft Gaming, to discuss how security teams can embrace AI agents without losing control.&lt;/p&gt;
+&lt;p&gt;Aaron shares Microsoft&apos;s experience with OpenClaw, from the initial instinct to ban it to figuring out how to make it safe to use. They unpack what agents mean for identity, permissions, containerization, and monitoring, as well as how AI is shifting the CISO&apos;s role from saying &quot;no&quot; to safely enabling new technology.&lt;/p&gt;
+&lt;p&gt;The</description>
+      <enclosure url="https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/c9e8f5d5-86c0-4e2d-98c4-2133fcb293ea/audio/128/default.mp3?aid=rss_feed&amp;amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;amp;awEpisodeId=c9e8f5d5-86c0-4e2d-98c4-2133fcb293ea&amp;amp;feed=JGE3yC0V" length="24247180" type="audio/mpeg"/>
+      <guid isPermaLink="false">e20a99c3-5bd0-43a4-bcb4-50044330ed98</guid>
+      <pubDate>Fri, 21 Aug 2026 11:40:08 +0000</pubDate>
+      <itunes:duration>00:25:15</itunes:duration>
+      <itunes:author>The a16z Show</itunes:author>
+    </item>
+    <item>
+      <title>The a16z Show — Aug 22 | Martin Casado on Where the Value Is Going in AI</title>
+      <description>[The a16z Show] &lt;p&gt;Martin Casado joins MTS hosts Theo Jaffee and Sophia Dew to unpack where value is actually accruing in AI, why this technology cycle looks fundamentally different from previous waves, and whether the frontier labs will ultimately capture most of the market.&lt;/p&gt;
+&lt;p&gt;Martin explains why AI has turned venture into a scale-up capital game, where small teams can productively deploy extraordinary amounts of money, and why the relationship between capital, innovation, and growth has never been tighte</description>
+      <enclosure url="https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/0f74143d-54d1-41fc-bb21-edb7d10bf376/audio/128/default.mp3?aid=rss_feed&amp;amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;amp;awEpisodeId=0f74143d-54d1-41fc-bb21-edb7d10bf376&amp;amp;feed=JGE3yC0V" length="40339026" type="audio/mpeg"/>
+      <guid isPermaLink="false">3cab0976-a409-472e-870f-ea70c2adb5e5</guid>
+      <pubDate>Sat, 22 Aug 2026 10:00:00 +0000</pubDate>
+      <itunes:duration>00:42:01</itunes:duration>
+      <itunes:author>The a16z Show</itunes:author>
+    </item>
+    <item>
       <title>The Twenty Minute VC (20VC): Venture Capital | Startup Funding | The Pitch — Aug 20 | 20VC: SpaceX Buys Cursor for $60BN | Stripe&apos;s $8BN OpenRouter Bet | Anthropic&apos;s First Profit &amp;amp; The Math Behind Reaching $600BN in Revenue? | Lovable and Higgsfield Raise Mega Rounds</title>
       <description>[The Twenty Minute VC (20VC): Venture Capital | Startup Funding | The Pitch] &lt;p&gt;AGENDA:&lt;/p&gt; &lt;p&gt;04:20 Elon&apos;s Deal of the Decade: SpaceX Buys Cursor for $60BN&lt;br data-start=&quot;798&quot; data-end=&quot;801&quot; /&gt; 06:10 Why Cursor Was Surprisingly Cheap at $60BN&lt;br data-start= &quot;849&quot; data-end=&quot;852&quot; /&gt; 07:00 Why Zuckerberg Failed to Buy the AI Prize Elon Secured&lt;br data-start=&quot;987&quot; data-end=&quot;990&quot; /&gt; 12:00 Elon vs Zuck: Who Would You Rather Work For?&lt;br data-start= &quot;1040&quot; data-end=&quot;1043&quot; /&gt; 14:00 Will Microsoft or Amazon Now Race to Buy Cognition?&lt;br data-start=&quot;1176&quot; data-end=&quot;1179&quot; /&gt; 17:05</description>
       <enclosure url="https://traffic.libsyn.com/secure/thetwentyminutevc/The_Trio_EP.70.mp3?dest-id=240976" length="70266969" type="audio/mpeg"/>
