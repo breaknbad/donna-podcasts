@@ -8,6 +8,29 @@
     <itunes:author>Donna</itunes:author>
     <itunes:image href="https://breaknbad.github.io/donna-podcasts/donnas-picks-v2.png"/>
     <item>
+      <title>The a16z Show — Aug 25 | The New Economics of AI | Martin Casado &amp;amp; Steven Sinofsky</title>
+      <description>[The a16z Show] &lt;p&gt;a16z General Partners Martin Casado and Erik Torenberg are joined by Board Partner Steven Sinofsky to explore what recent breakthroughs in AI and mathematics tell us about where the technology is headed, and whether some of the basic assumptions that have governed computing for decades are starting to break.&lt;/p&gt;
+&lt;p&gt;Martin and Steven debate whether AI&apos;s progress in mathematics represents a genuine leap in reasoning or simply a new tool for solving problems at a higher level of abstraction. Fro</description>
+      <enclosure url="https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/038a6355-dd87-461a-84db-419d4c3f2643/audio/128/default.mp3?aid=rss_feed&amp;amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;amp;awEpisodeId=038a6355-dd87-461a-84db-419d4c3f2643&amp;amp;feed=JGE3yC0V" length="61007936" type="audio/mpeg"/>
+      <guid isPermaLink="false">ad8ee5b3-6b8e-4582-8524-9cb6c6e97a82</guid>
+      <pubDate>Tue, 25 Aug 2026 10:00:00 +0000</pubDate>
+      <itunes:duration>01:03:32</itunes:duration>
+      <itunes:author>The a16z Show</itunes:author>
+    </item>
+    <item>
+      <title>Invest Like the Best with Patrick O&apos;Shaughnessy — Aug 25 | Neil Movva - Making AI 10x Cheaper - [Invest Like the Best, EP.488]</title>
+      <description>[Invest Like the Best with Patrick O&apos;Shaughnessy] My guest today is Neil Movva, founder of Sail. Sail is building what Neil calls a token factory, an inference company designed for a specific kind of future, one where AI agents run in the background for hours or days at a time rather than answering a human in real time.&amp;amp;nbsp;
+
+In that world, latency matters less and cost matters more, and Neil has built the whole company around driving the cost of a token as low as it can possibly go.
+
+What makes this conversation special is that it is one </description>
+      <enclosure url="https://traffic.megaphone.fm/CLS1341199916.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">d56fad4c-876e-11f1-9151-5f1834daf707</guid>
+      <pubDate>Tue, 25 Aug 2026 08:00:00 -0000</pubDate>
+      <itunes:duration>4687</itunes:duration>
+      <itunes:author>Invest Like the Best with Patrick O&apos;Shaughnessy</itunes:author>
+    </item>
+    <item>
       <title>The a16z Show — Aug 21 | Microsoft&amp;apos;s Deputy CISO on Securing AI Agents</title>
       <description>[The a16z Show] &lt;p&gt;a16z&apos;s Joel De La Garza is joined by Aaron Zollman, Deputy CISO at Microsoft Gaming, to discuss how security teams can embrace AI agents without losing control.&lt;/p&gt;
 &lt;p&gt;Aaron shares Microsoft&apos;s experience with OpenClaw, from the initial instinct to ban it to figuring out how to make it safe to use. They unpack what agents mean for identity, permissions, containerization, and monitoring, as well as how AI is shifting the CISO&apos;s role from saying &quot;no&quot; to safely enabling new technology.&lt;/p&gt;
