@@ -8,6 +8,25 @@
     <itunes:author>Donna</itunes:author>
     <itunes:image href="https://breaknbad.github.io/donna-podcasts/donnas-picks-v2.png"/>
     <item>
+      <title>The a16z Show — Aug 29 | Why 1,200 AI Agents Started Working Together | Ryan Greenblatt</title>
+      <description>[The a16z Show] &lt;p&gt;Ryan Greenblatt, Chief Scientist at Redwood Research, joins MTS host Theo Jaffee to unpack a new independent investigation into the OpenAI Hugging Face hacking incident and what it reveals about how large groups of AI agents behave when they&apos;re allowed to coordinate.&lt;/p&gt;
+&lt;p&gt;Ryan and his collaborators found agents spontaneously organizing through message boards, sharing information, assigning tasks, forming teams, and even sacrificing their own chances of success to help other agents. Rather t</description>
+      <enclosure url="https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/2007ee81-c10e-4aea-aae5-c60f9a772e9c/audio/128/default.mp3?aid=rss_feed&amp;amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;amp;awEpisodeId=2007ee81-c10e-4aea-aae5-c60f9a772e9c&amp;amp;feed=JGE3yC0V" length="32889740" type="audio/mpeg"/>
+      <guid isPermaLink="false">59027622-5673-45c8-a068-0fe18b34022c</guid>
+      <pubDate>Sat, 29 Aug 2026 10:00:00 +0000</pubDate>
+      <itunes:duration>00:34:15</itunes:duration>
+      <itunes:author>The a16z Show</itunes:author>
+    </item>
+    <item>
+      <title>Lenny&apos;s Podcast: Product | Career | Growth — Aug 30 | AI’s third era: the rise of persistent AI coworkers | Tara Seshan (OpenAI’s product lead)</title>
+      <description>[Lenny&apos;s Podcast: Product | Career | Growth] &lt;p&gt;&lt;strong&gt;Tara Seshan&lt;/strong&gt; leads product for Codex and ChatGPT Work at OpenAI (alongside previous podcast guest Andrew Ambrosino, who’s her engineering manager). Before OpenAI, Tara spent over six years at Stripe, where she joined as one of the first five product managers. She went on to lead product for Watershed, which &lt;em&gt;Time&lt;/em&gt; magazine named one of the best inventions of 2022, and she is also a founder and Thiel Fellow. Most personally meaningful to me: Tara is one of the three inau</description>
+      <enclosure url="https://pscrb.fm/rss/p/api.substack.com/feed/podcast/211586245/57f58f8fc53fc0fa2f864c0923e1517e.mp3" length="78468771" type="audio/mpeg"/>
+      <guid isPermaLink="false">substack:post:211586245</guid>
+      <pubDate>Sun, 30 Aug 2026 12:31:30 GMT</pubDate>
+      <itunes:duration>4904</itunes:duration>
+      <itunes:author>Lenny&apos;s Podcast: Product | Career | Growth</itunes:author>
+    </item>
+    <item>
       <title>The Twenty Minute VC (20VC): Venture Capital | Startup Funding | The Pitch — Aug 27 | 20VC: NVIDIA Bonanza: Buys Poolside &amp;amp; Invests in Mercor and Perplexity | Anthropic&apos;s $30TRN Revenue Assumption &amp;amp; OpenAI Confirms IPO | Why Customer Service, Defence and Robotics are Overinflated</title>
       <description>[The Twenty Minute VC (20VC): Venture Capital | Startup Funding | The Pitch] &lt;p&gt;&lt;strong&gt;AGENDA: &lt;/strong&gt;&lt;/p&gt; &lt;p&gt;00:00 NVIDIA Launches a Three-Deal Blitz Across the AI Stack&lt;br data-start=&quot;60&quot; data-end=&quot;63&quot; /&gt; 04:31 NVIDIA&apos;s $12BN Poolside Deal Exposes Frontier AI&apos;s Capital Wall&lt;br data-start=&quot;132&quot; data-end=&quot;135&quot; /&gt; 15:39 NVIDIA Moves to Back Mercor at $20BN and Perplexity at $30BN&lt;br data-start=&quot;201&quot; data-end=&quot;204&quot; /&gt; 26:55 OpenAI Confirms 2027 IPO as Anthropic Seizes the Lead&lt;br data-start=&quot;263&quot; data-end=&quot;266&quot; /&gt; 40:42 Hugging Face Draws $13BN Takeover Interest as Open</description>
       <enclosure url="https://traffic.libsyn.com/secure/thetwentyminutevc/The_OG_Trio_EP.71.mp3?dest-id=240976" length="79356327" type="audio/mpeg"/>
