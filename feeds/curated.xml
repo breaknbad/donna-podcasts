@@ -8,6 +8,16 @@
     <itunes:author>Donna</itunes:author>
     <itunes:image href="https://breaknbad.github.io/donna-podcasts/donnas-picks-v2.png"/>
     <item>
+      <title>Masters of Scale — Sep 1 | When AI agents do your shopping, everything changes, with Shopify’s Jess Hertz</title>
+      <description>[Masters of Scale] 
+        &lt;![CDATA[&lt;p&gt;For decades, e-commerce rewarded the biggest brands who could buy their way to the top of search results. AI is changing that. Shopify COO Jess Hertz joins Rapid Response to share what Shopify&apos;s data reveals about the agentic shopping revolution in real time, and how the company is building the infrastructure layer that makes products discoverable and purchasable by AI. Plus, why Shopify&apos;s engineers can spend freely on AI tokens while the rest of the business world agonizes </description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/pscrb.fm/rss/p/tracking.swap.fm/track/7G0M4p2bOLP0mP50O3CD/rss.art19.com/episodes/0b5723a9-4414-4d9e-948c-de58dfd44f1d.mp3?rss_browser=BAhJIgljdXJsBjoGRVQ%3D--435795d5c850773aaa4739d968bd77a1dfd6f301" length="28686628" type="audio/mpeg"/>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/FXKvzQZGwV0PL8c5hJRlunXY80UTgBrwhTzb2jrVVDE</guid>
+      <pubDate>Tue, 01 Sep 2026 09:00:00 -0000</pubDate>
+      <itunes:duration>00:29:52</itunes:duration>
+      <itunes:author>Masters of Scale</itunes:author>
+    </item>
+    <item>
       <title>The a16z Show — Aug 29 | Why 1,200 AI Agents Started Working Together | Ryan Greenblatt</title>
       <description>[The a16z Show] &lt;p&gt;Ryan Greenblatt, Chief Scientist at Redwood Research, joins MTS host Theo Jaffee to unpack a new independent investigation into the OpenAI Hugging Face hacking incident and what it reveals about how large groups of AI agents behave when they&apos;re allowed to coordinate.&lt;/p&gt;
 &lt;p&gt;Ryan and his collaborators found agents spontaneously organizing through message boards, sharing information, assigning tasks, forming teams, and even sacrificing their own chances of success to help other agents. Rather t</description>
