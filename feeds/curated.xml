@@ -8,6 +8,24 @@
     <itunes:author>Donna</itunes:author>
     <itunes:image href="https://breaknbad.github.io/donna-podcasts/donnas-picks-v2.png"/>
     <item>
+      <title>Lenny&apos;s Podcast: Product | Career | Growth — Sep 6 | Why companies are becoming a series of loops | Anish Acharya (a16z)</title>
+      <description>[Lenny&apos;s Podcast: Product | Career | Growth] &lt;p&gt;&lt;strong&gt;Anish Acharya&lt;/strong&gt; is a General Partner at Andreessen Horowitz (a16z), where he has focused on consumer investing. Anish is one of the most insightful, thought-provoking, and in-the-weeds product investors I’ve met, and this conversation will get your mind buzzing. Before joining a16z, Anish was a serial founder and operator: he founded SocialDeck, which he sold to Google, then led multiple efforts inside Google before founding Snowball, which he sold to Credit Karma. At Credit Ka</description>
+      <enclosure url="https://pscrb.fm/rss/p/api.substack.com/feed/podcast/213044770/3b97202cd424a1dca4955ed3371c9424.mp3" length="76226872" type="audio/mpeg"/>
+      <guid isPermaLink="false">substack:post:213044770</guid>
+      <pubDate>Sun, 06 Sep 2026 12:32:00 GMT</pubDate>
+      <itunes:duration>4764</itunes:duration>
+      <itunes:author>Lenny&apos;s Podcast: Product | Career | Growth</itunes:author>
+    </item>
+    <item>
+      <title>The a16z Show — Sep 5 | Aaron Levie on Why Open AI Wins</title>
+      <description>[The a16z Show] &lt;p&gt;Box co-founder and CEO Aaron Levie joins MTS hosts Theo Jaffee and Sofia Puccini to make the case for open-weight AI, unpack the economics of open versus closed models, and explain why he believes more openness could strengthen rather than undermine the U.S. AI ecosystem.&lt;/p&gt;&lt;p&gt;Aaron argues that open models create more use cases, push closed labs to innovate faster, and don&apos;t fundamentally change where the economics of AI ultimately accrue. They debate model distillation, America&apos;s competitio</description>
+      <enclosure url="https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/fa4d1de0-221c-4305-9b44-d8ee5ef2a0db/audio/128/default.mp3?aid=rss_feed&amp;amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;amp;awEpisodeId=fa4d1de0-221c-4305-9b44-d8ee5ef2a0db&amp;amp;feed=JGE3yC0V" length="29849086" type="audio/mpeg"/>
+      <guid isPermaLink="false">c467545c-37d0-4862-8fce-65d81646cd39</guid>
+      <pubDate>Sat, 5 Sep 2026 10:00:00 +0000</pubDate>
+      <itunes:duration>00:31:05</itunes:duration>
+      <itunes:author>The a16z Show</itunes:author>
+    </item>
+    <item>
       <title>The a16z Show — Sep 3 | The $100B Niches Hiding Inside Payments</title>
       <description>[The a16z Show] &lt;p&gt;Erik Torenberg is joined by a16z General Partner Alex Rampell and Affirm Co-Founder and CEO Max Levchin for a conversation on 25 years of fintech, from the early days of digital payments to the origins of Affirm and the next generation of agentic commerce.&lt;/p&gt;&lt;p&gt;Max and Alex revisit what surprised them most about how payments evolved, why the card interface has been so difficult to displace, and why even the smallest corners of payments can become enormous markets. They also trace the early i</description>
       <enclosure url="https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/a13b21a1-e71b-428e-969a-c4fe80db9f9c/audio/128/default.mp3?aid=rss_feed&amp;amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;amp;awEpisodeId=a13b21a1-e71b-428e-969a-c4fe80db9f9c&amp;amp;feed=JGE3yC0V" length="58229769" type="audio/mpeg"/>
