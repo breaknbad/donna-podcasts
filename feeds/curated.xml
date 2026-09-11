@@ -8,6 +8,15 @@
     <itunes:author>Donna</itunes:author>
     <itunes:image href="https://breaknbad.github.io/donna-podcasts/donnas-picks-v2.png"/>
     <item>
+      <title>The a16z Show — Sep 9 | Who Grades the AI Models? | Ben Horowitz &amp;amp; Rayan Krishnan</title>
+      <description>[The a16z Show] &lt;p&gt;a16z’s Erik Torenberg, Ben Horowitz, and Jennifer Li sit down with Vals founder and CEO Rayan Krishnan to discuss one of AI’s increasingly difficult problems: how do you actually measure whether a model is getting better?&lt;/p&gt;&lt;p&gt;As public benchmarks saturate and models get better at optimizing for the tests themselves, Rayan makes the case for independent, continuously evolving evaluations. They unpack why self-reported model scores can be misleading, how VALS evaluates models in the hours bef</description>
+      <enclosure url="https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/ba494c31-cd47-4bae-a5d5-89304f960936/audio/128/default.mp3?aid=rss_feed&amp;amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;amp;awEpisodeId=ba494c31-cd47-4bae-a5d5-89304f960936&amp;amp;feed=JGE3yC0V" length="38168972" type="audio/mpeg"/>
+      <guid isPermaLink="false">3f9d6ac8-7abc-4364-926d-900b2880fcb1</guid>
+      <pubDate>Wed, 9 Sep 2026 10:00:00 +0000</pubDate>
+      <itunes:duration>00:39:45</itunes:duration>
+      <itunes:author>The a16z Show</itunes:author>
+    </item>
+    <item>
       <title>The Twenty Minute VC (20VC): Venture Capital | Startup Funding | The Pitch — Sep 7 | 20VC: The $100 Billion AI Assistant Race: Town vs Instinct vs GrokBot | We Spend $75K Per Engineer on AI Tools | Why the AI Assistant Market Is Not a Bubble &amp;amp; AI Assistants Will Replace Every App on Your Phone with JD, Founder of Town</title>
       <description>[The Twenty Minute VC (20VC): Venture Capital | Startup Funding | The Pitch] &lt;p&gt;Jean-Denis &quot;JD&quot; Grèze is the Co-Founder and CEO of Town, the AI work assistant reportedly in talks to raise funding at a $1BN valuation. Before founding Town, JD spent seven years as CTO of Plaid. Before Plaid, he was Director of Engineering at Dropbox. He is also a prolific angel investor backing companies including Modal, BaseTen, Merge and NexHealth.&lt;/p&gt; &lt;p&gt;AGENDA:&lt;/p&gt; &lt;p&gt;00:00 Why AI Assistants Are Silicon Valley&apos;s Hottest Market&lt;br data-start=&quot;122&quot; data-end=&quot;125&quot; /&gt; 07:00 How Does Town C</description>
       <enclosure url="https://traffic.libsyn.com/secure/thetwentyminutevc/Jean-Denis_Greze__Town.mp3?dest-id=240976" length="68055556" type="audio/mpeg"/>
